@@ -15,6 +15,7 @@ Description: An object-oriented package for mathematical sets, upgrading the cur
 LinkingTo: Rcpp
 Imports: checkmate, ooplah, Rcpp, R6, utils
 Suggests: knitr, testthat, devtools, rmarkdown
+Remotes: mlr-org/ooplah
 License: MIT + file LICENSE
 LazyData: true
 URL: https://xoopR.github.io/set6/, https://github.com/xoopR/set6
